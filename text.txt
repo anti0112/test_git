@@ -12,3 +12,5 @@ asdasdas scdfvsdf
 
 Что бы забрать файлы с гит хаба
 git pull origin main
+
+dsfsdfsdfsdfs
