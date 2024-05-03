@@ -3,3 +3,12 @@
 
 Изменили это на гит хабе
 asdasdas scdfvsdf 
+# инструкция для нового проекта добавления на гит
+1) git init
+2) git add . (ИЛИ НАЗВАНИЕ ФАЙЛА)
+3) git commit -m 'название коммита'
+4) git push origin main (или master)
+
+
+Что бы забрать файлы с гит хаба
+git pull origin main
